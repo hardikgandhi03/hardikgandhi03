@@ -1,5 +1,3 @@
-![MasterHead]
-
 <h1 align="center">Hi 👋, I'm Hardik Gandhi</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
 
