@@ -6,7 +6,7 @@
 * 🌍  I'm based in Ottawa, Canada
 * ✉️  You can contact me at [gandhi.hardik2001@gmail.com](mailto:gandhi.hardik2001@gmail.com) or [hmgandhi03@gmail.com](mailto:hmgandhi03@gmail.com)
 * 🤝  I'm open to collaborating on DevOps, Cloud and Security related projects
-* 
+  
 ### Skills
 
 <p align="left">
